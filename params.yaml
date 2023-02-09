@@ -1,0 +1,3 @@
+data:
+  csv_raw: '../data/csv/raw_data.csv'
+  csv_clean: '../data/csv/clean_data.csv'
