@@ -1,3 +1,5 @@
 data:
   csv_raw: '../data/csv/raw_data.csv'
   csv_clean: '../data/csv/clean_data.csv'
+  csv_locations: '../data/csv/locations.csv'
+  csv_geo_locations: '../data/csv/geo_locations.csv'
